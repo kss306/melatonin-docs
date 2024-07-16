@@ -5,7 +5,7 @@
 | Event              | Description                       |
 | ------------------ | --------------------------------- |
 | `paint`            | Called every frame                |
-| `tick`             | Called every frame                |
+| `tick`             | Called every tick                 |
 | `shutdown`         | Called when the script unloads    |
 | `pre_triggerbot`   | Called before triggerbot shooting |
 | `post_triggerbot`  | Called after triggerbot shooting  |
