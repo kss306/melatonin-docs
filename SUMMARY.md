@@ -22,3 +22,5 @@
   * [Text on player bone](documentation/code-examples/text-on-player-bone.md)
   * [Get frames per seconds](documentation/code-examples/get-frames-per-seconds.md)
   * [Get velocity](documentation/code-examples/get-velocity.md)
+* [Extra API doc](documentation/extra-api-doc/README.md)
+  * [Custom Callbacks](documentation/extra-api-doc/custom-callbacks.md)
