@@ -54,14 +54,18 @@ The events return a optinal array of data to the callbacks. [See in the implemen
 | Data Type | Name          | Description                          |
 | --------- | ------------- | ------------------------------------ |
 | int       | round\_number | The number of the now starting round |
+| int       | time\_limit   | Round time limit in seconds          |
 
 ***
 
 ### round\_end
 
-| Data Type | Name          | Description                    |
-| --------- | ------------- | ------------------------------ |
-| int       | round\_number | The number of the played round |
+| Data Type | Name          | Description                     |
+| --------- | ------------- | ------------------------------- |
+| int       | round\_number | The number of the played round  |
+| string    | winner        | Name of the winner team or user |
+| int       | reason        | Index of the winning reason     |
+| string    | message       | End round message               |
 
 ***
 
